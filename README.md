@@ -9,7 +9,7 @@
 <h3 align="center">Some of my favorite tools:</h3>
 <p align="center">
 <img alt="nixos" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-plain-wordmark.svg" />
-<img alt="rust" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+<img alt="rust" height="40" src="https://raw.githubusercontent.com/rust-lang/rust-artwork/refs/heads/master/logo/rust-logo-blk.svg" />
 <img alt="golang" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
 <img alt="typescript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img alt="python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
